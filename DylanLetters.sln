@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DylanLettersApp", "DylanLettersApp\DylanLettersApp.csproj", "{F4993B1E-BC24-4E5F-BAE6-B63E93BBCAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterApp", "TesterApp\TesterApp.csproj", "{7412E594-41C7-457B-ADD2-0C7236EB2273}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DylanLettersInstaller", "DylanLettersInstaller\DylanLettersInstaller.vdproj", "{03597233-6F58-4151-AB8F-BAF0317F0612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4993B1E-BC24-4E5F-BAE6-B63E93BBCAD4}.Debug|x86.ActiveCfg = Debug|x86
+		{F4993B1E-BC24-4E5F-BAE6-B63E93BBCAD4}.Debug|x86.Build.0 = Debug|x86
+		{F4993B1E-BC24-4E5F-BAE6-B63E93BBCAD4}.Release|x86.ActiveCfg = Release|x86
+		{F4993B1E-BC24-4E5F-BAE6-B63E93BBCAD4}.Release|x86.Build.0 = Release|x86
+		{7412E594-41C7-457B-ADD2-0C7236EB2273}.Debug|x86.ActiveCfg = Debug|x86
+		{7412E594-41C7-457B-ADD2-0C7236EB2273}.Release|x86.ActiveCfg = Release|x86
+		{7412E594-41C7-457B-ADD2-0C7236EB2273}.Release|x86.Build.0 = Release|x86
+		{03597233-6F58-4151-AB8F-BAF0317F0612}.Debug|x86.ActiveCfg = Debug
+		{03597233-6F58-4151-AB8F-BAF0317F0612}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
